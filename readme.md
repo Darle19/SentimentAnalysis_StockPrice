@@ -51,7 +51,7 @@ Install the required Python libraries:
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/darle19/sentiment-stock-analysis/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/darle19/SentimentAnalysis_StockPrice/issues).
 
 ## License
 
